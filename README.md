@@ -17,6 +17,7 @@ Key changes:
 
 Build dependencies:
 ```
+cmake
 gcc
 ```
 
